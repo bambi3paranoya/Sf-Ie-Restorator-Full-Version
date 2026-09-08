@@ -234,3 +234,6 @@ This repository serves as the official landing page for SF IE Restorator. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SF IE Restorator today!**
+
+---
+**Last updated:** 2026-09-08 13:08:59 UTC

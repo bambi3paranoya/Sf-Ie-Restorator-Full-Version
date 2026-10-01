@@ -236,4 +236,4 @@ This repository serves as the official landing page for SF IE Restorator. The so
 **Get the most recent version of SF IE Restorator today!**
 
 ---
-**Last updated:** 2026-09-30 22:42:01 UTC
+**Last updated:** 2026-10-01 01:39:33 UTC
